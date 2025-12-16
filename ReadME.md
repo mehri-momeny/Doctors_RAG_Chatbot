@@ -26,7 +26,7 @@ No high‑level RAG frameworks (e.g., LangChain) are used.
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/mehri-momeny/Doctors_RAG_Chatbot.git
 cd Doctors_RAG_Chatbot
 ```
 
