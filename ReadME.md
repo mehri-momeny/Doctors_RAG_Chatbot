@@ -87,7 +87,7 @@ User → Streamlit Chat UI
 
 **2. Embeddings & Vector Store**
 
-* Uses `SentenceTransformers (all‑MiniLM‑L6‑v2)`
+* Uses `SentenceTransformers (paraphrase-multilingual-MiniLM-L12-v2)`
 * Stores embeddings in **Qdrant** (in‑memory by default)
 * Enables fast semantic search using cosine similarity
 
